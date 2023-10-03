@@ -6,6 +6,8 @@
         {
             // Сейчас что нибудь здесь напишем
             Console.WriteLine("Пока ничего не сделано!");
+            Console.WriteLine("Добавляем ещё одну строчку!");
+            Console.WriteLine("И ещё одну строчку!");
             Console.ReadLine();
         }
     }
