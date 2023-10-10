@@ -12,6 +12,7 @@
             Console.WriteLine("Я в игре!");
             Console.WriteLine("Коммит в ветке new-test-branch");
             Console.WriteLine("Коммит в ветке new-test2-branch");
+            Console.WriteLine("Коммит в ветке new-test222-branch");
             Console.ReadLine();
         }
     }
