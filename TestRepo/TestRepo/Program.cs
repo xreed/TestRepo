@@ -10,6 +10,7 @@
             Console.WriteLine("И ещё одну строчку!");
             Console.ReadLine();
             Console.WriteLine("Я в игре!");
+            Console.WriteLine("Коммит в ветке new-test-branch");
             Console.ReadLine();
         }
     }
